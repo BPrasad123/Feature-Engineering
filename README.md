@@ -13,3 +13,8 @@ There are two types of scaling -
 2. Standardization: Assumption is that data is more or less normally distributed, that is Gaussian distribution. It does the scaling so as to make the mean as 0 and standard deviation as 1. It might lead to unwanted result if applied on non-Gaussian distributed data.
  
  Disclaimer: I am still working on my research on this and will share my findings and code shortly.
+
+
+*Reference Links:*
+https://stats.stackexchange.com/a/264097
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
