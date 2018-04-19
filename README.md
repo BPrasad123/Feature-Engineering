@@ -16,5 +16,5 @@ There are two types of scaling -
 
 
 *Reference Links:*
-https://stats.stackexchange.com/a/264097
+https://stats.stackexchange.com/a/264097  
 http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
