@@ -20,7 +20,7 @@ Application:
  Disclaimer: I am still working on my research on this and will share my findings and code shortly.
 
 
-*Reference Links:*
+*Reference Links:*  
 https://stats.stackexchange.com/a/264097  
 http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
 http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
