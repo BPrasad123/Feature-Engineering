@@ -26,3 +26,13 @@ http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
 http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
 
 
+## 2. Dimensionality Reduction ##
+Principal Component Analysis, Singular Value Decomposition and Sammon’s Mapping.  
+
+## 3. Feature Selection ##
+### I. Filter Methods ###
+Chi squared test, information gain and correlation coefficient scores.  
+### II. Wrapper Methods ###
+Recursive feature elimination algorithm, Backward Elimination  
+### III. Embedded Methods ###
+Regularization algorithms are the LASSO, Elastic Net and Ridge Regression  
