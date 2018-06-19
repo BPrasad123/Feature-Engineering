@@ -40,4 +40,5 @@ Regularization algorithms are the LASSO, Elastic Net and Ridge Regression
 
 # NLP #
 ## Embedding ##
-https://www.quora.com/What-does-the-word-embedding-mean-in-the-context-of-Machine-Learning#
+https://www.quora.com/What-does-the-word-embedding-mean-in-the-context-of-Machine-Learning#  
+https://www.linkedin.com/feed/update/urn:li:activity:6414655628450631680  
