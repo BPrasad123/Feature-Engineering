@@ -42,3 +42,9 @@ Regularization algorithms are the LASSO, Elastic Net and Ridge Regression
 ## Embedding ##
 https://www.quora.com/What-does-the-word-embedding-mean-in-the-context-of-Machine-Learning#  
 https://www.linkedin.com/feed/update/urn:li:activity:6414655628450631680  
+
+
+## RESEARCH ##
+1. Categorial to one hot is not all the time good option being computationally expensive  
+2. Linear Regression to feed into GBM to reduce dimension for categorical values  
+3. Use embedding in place of one hot to reduce dimension  
