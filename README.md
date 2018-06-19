@@ -36,3 +36,8 @@ Chi squared test, information gain and correlation coefficient scores.
 Recursive feature elimination algorithm, Backward Elimination  
 ### III. Embedded Methods ###
 Regularization algorithms are the LASSO, Elastic Net and Ridge Regression  
+
+
+# NLP #
+## Embedding ##
+https://www.quora.com/What-does-the-word-embedding-mean-in-the-context-of-Machine-Learning#
